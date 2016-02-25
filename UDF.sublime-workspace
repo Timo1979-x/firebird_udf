@@ -1,0 +1,422 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"nor",
+				"normalizeRegnumber"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"tes",
+				"testGnumbers"
+			],
+			[
+				"tr",
+				"regNumberTranslitUppercaseCp1251"
+			],
+			[
+				"re",
+				"regnum"
+			],
+			[
+				"pa",
+				"patterns"
+			],
+			[
+				"p",
+				"patterns"
+			],
+			[
+				"patter",
+				"patterns"
+			],
+			[
+				"con",
+				"convert_test"
+			],
+			[
+				"pcrs",
+				"pcrs_test"
+			],
+			[
+				"str",
+				"strlen"
+			],
+			[
+				"en",
+				"endif"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "test_thread_use.c",
+			"settings":
+			{
+				"buffer_size": 1615,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "inst",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			" import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/ltv/work/FAU20101206"
+	],
+	"file_history":
+	[
+		"/home/ltv/work/FAU20101206/test_thread_use.h",
+		"/home/ltv/work/threads/test_thread_use.c",
+		"/home/ltv/work/FAU20101206/test_thread_use.c",
+		"/home/ltv/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/ltv/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/usr/include/pthread.h",
+		"/home/ltv/work/FAU20101206/Makefile",
+		"/usr/include/pcre.h",
+		"/home/ltv/work/FAU20101206/string_functions.c",
+		"/home/ltv/work/FAU20101206/gto_functions.h",
+		"/home/ltv/work/FAU20101206/gto_functions.c",
+		"/usr/include/x86_64-linux-gnu/bits/pthreadtypes.h",
+		"/home/ltv/work/FAU20101206/pcrs.c",
+		"/home/ltv/work/FAU20101206/dependencies.txt",
+		"/home/ltv/work/FAU20101206/test.c",
+		"/home/ltv/work/FAU20101206/.gitignore",
+		"/home/ltv/work/FAU20101206/string_functions.h",
+		"/home/ltv/work/FAU20101206/pcrs.h",
+		"/home/ltv/work/FAU20101206/test/Makefile",
+		"/home/ltv/work/FAU20101206/_strfunc.pas",
+		"/home/ltv/work/FAU20101206/result.txt",
+		"/home/ltv/work/FAU20101206/global.h",
+		"/home/ltv/work/pcrs-0.0.3/pcrs.c",
+		"/home/ltv/work/pcrs-0.0.3/pcrs.h",
+		"/home/ltv/work/FAU20101206/1.html",
+		"/home/ltv/work/pcrs-0.0.3/pcrsed.c",
+		"/home/ltv/work/FAU20101206/tect.c",
+		"/home/ltv/work/UDF1/udf1.c",
+		"/home/ltv/work/FAU20101206/checksum_functions.h",
+		"/home/ltv/work/FAU20101206/blob_functions.h",
+		"/home/ltv/work/UDF1/udf1.h",
+		"/home/ltv/work/UDF1/make.sh",
+		"/home/ltv/work/FAU20101206/uuid_functions.c",
+		"/home/ltv/work/FAU20101206/uuid_functions.h",
+		"/home/ltv/work/UDF1/hello.c"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\\",
+			"preview",
+			"selec",
+			"open",
+			"pthread_t",
+			"NULL",
+			"pcre_exec(",
+			"pcre",
+			"()",
+			"icu",
+			"ib_u",
+			"pcre",
+			"-l",
+			"pcre",
+			"LF",
+			"LIB",
+			"LDFLAGS",
+			"LIB32",
+			"-L",
+			"#",
+			"LDFLAGS",
+			"print",
+			"(^\\s+)|(\\s+$)",
+			"\\\\s+",
+			"(^\\\\s+)",
+			"(@|\\d{4,})\\s+([A-ZА-ЯІ])",
+			"6",
+			"sizeof",
+			"g_regnumPatternStripSpaces",
+			"alloc",
+			"pcrs_exe",
+			"text",
+			"nex",
+			"normalizeRegNumber",
+			"enco",
+			"show",
+			"tables",
+			"regNumberTranslit",
+			"\\t",
+			"(\\d)([^\\d])",
+			"digits",
+			"blob_functions",
+			"blob_functions.o",
+			"MAX_STRINGBUFFER_SIZE",
+			"check_uuidcompr",
+			"uuid4compr",
+			"print",
+			"$(FAU)",
+			"sz",
+			"MALLOC"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"\\1\\2",
+			" ",
+			"\\1,\\2"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "test_thread_use.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1615,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								285,
+								285
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 66.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.astyle_error_message":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "UDF.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"tes",
+				"test_thread_use.h"
+			],
+			[
+				"",
+				"pcrs.c"
+			],
+			[
+				"gto",
+				"gto_functions.c"
+			],
+			[
+				"pcrs",
+				"pcrs.c"
+			],
+			[
+				"depe",
+				"dependencies.txt"
+			],
+			[
+				"strin",
+				"string_functions.c"
+			],
+			[
+				"pcr",
+				"pcrs.h"
+			],
+			[
+				"mak",
+				"Makefile"
+			],
+			[
+				"res",
+				"result.txt"
+			],
+			[
+				"glo",
+				"global.h"
+			],
+			[
+				"_s",
+				"_strfunc.pas"
+			],
+			[
+				"make",
+				"make.sh"
+			],
+			[
+				"udf1",
+				"udf1.h"
+			],
+			[
+				"udf",
+				"udf1.c"
+			],
+			[
+				"ud",
+				"~/work/UDF1/udf1.h"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 207.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
