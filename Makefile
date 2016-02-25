@@ -167,7 +167,7 @@ endif
 UDF_OBJ = date_functions.o math_functions.o  string_functions.o  \
   blob_functions.o  md5.o  sysdep.o  uuid.o  uuid_functions.o  \
   const_functions.o conv_functions.o  diverse_functions.o \
-  checksum_functions.o gto_functions.o
+  checksum_functions.o gto_functions.o pcrs.o
 ifeq (icu, $(findstring icu, $(ICU_INCLUDE)))
   UDF_OBJs = $(UDF_OBJ) utf8_functions.o
 else
